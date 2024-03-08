@@ -1,5 +1,5 @@
 
-QRCode Generator 
+<h1>QRCode Generator</h1>
 
 Welcome to the QRCode Generator API! This project allows you to generate QR codes with customizable settings and provides a simple user interface to create and download QR code images.
 
