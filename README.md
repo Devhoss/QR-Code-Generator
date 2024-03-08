@@ -5,9 +5,9 @@
 
 <h2>Features</h2>
 
-<p>Customizable Settings: Adjust text/URL, main color, background color, size, margin, and image format to tailor the QR code to your preferences.
-Dark Mode: Toggle between light and dark mode for a personalized experience.
-Image Download: Easily download the generated QR code image to your device. </p>
+<p>Customizable Settings: Adjust text/URL, main color, background color, size, margin, and image format to tailor the QR code to your preferences.</p>
+<p>Dark Mode: Toggle between light and dark mode for a personalized experience.</p>
+<p>Image Download: Easily download the generated QR code image to your device. </p>
 
 <h2>Dependencies</h2>
 <p>sanitize.css: A stylesheet that provides consistent and safe default styles for your project.</p>
